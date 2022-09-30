@@ -1,4 +1,4 @@
-from msilib import init_database
+#from msilib import init_database
 import os
 import sys
 import json
